@@ -1,4 +1,4 @@
-# Mocking Api response on Storybook using Axios and axios-mock-adapter
+# Mocking Api response in Storybook using Axios and axios-mock-adapter
 
 Originally pusblised on Medium: https://medium.com/@rafaelrozon/mock-axios-storybook-72404b1d427b
 
